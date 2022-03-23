@@ -1,2 +1,1 @@
-# github_tf_auto_generate
-First github tf repo
+Standalone repo created by terraform
